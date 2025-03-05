@@ -1,16 +1,14 @@
-# postify
+# Postify
 
-This template should help get you started developing with Vue 3 in Vite.
+Postify is a powerful and user-friendly tool for API development and testing. Designed to make creating, testing, and debugging APIs as simple as possible—fast, efficient, and without the clutter.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
+
+### Prerequisites
+* Node.js (version 16 or higher)
+* npm
 
 ```sh
 npm install
